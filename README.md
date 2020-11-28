@@ -29,4 +29,4 @@ For more information please refer to our papar. Please also cite the following p
   author={Yaghoub-Zadeh-Fard, Mohammad-Ali and Benatallah, Boualem and Chai Barush, Moshe and Zamanirad, Shayan},
   booktitle={Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human     Language Technologies},
   year={2019}
-```
+```  
